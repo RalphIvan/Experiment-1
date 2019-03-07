@@ -1,0 +1,29 @@
+#include <iostream>
+#include <conio.h>
+#include <string>
+using namespace std;
+
+int main()
+{
+	
+
+	int num2;
+	num2=9;
+	cout << "num2=" << num2 << endl;
+	
+	int sale;
+	sale=2*10;
+	cout << "sale=" << sale << endl;
+
+	char first; 
+	first= 'D';
+	cout << "first=" << first <<endl;
+
+	string str; 
+	str= "It is a sunny day.";
+	cout << "str=" << str <<endl;
+
+	-getch();
+	return 0;
+
+}
